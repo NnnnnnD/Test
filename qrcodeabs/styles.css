@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Gaya latar belakang */
+body {
+    background-color: #177ce2; /* Warna latar belakang abu-abu muda */
+}
+
+/* Gaya untuk kartu login */
+.card {
+    border-radius: 15px;
+}
+
+/* Gaya untuk judul login */
+.card h3 {
+    font-weight: 600;
+    color: #333;
+}
+
+/* Gaya untuk gambar logo */
+.card img {
+    max-width: 150px;
+    height: auto;
+}
+
+/* Gaya untuk alert */
+.alert {
+    font-size: 1rem;
+}
+
+/* Gaya tambahan jika diperlukan */

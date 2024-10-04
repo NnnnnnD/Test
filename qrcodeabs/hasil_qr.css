@@ -1,0 +1,46 @@
+/* Styling QR Code */
+.qr-image {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Button Styling */
+.btn {
+    margin: 10px;
+    font-size: 18px;
+    padding: 12px 30px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
+
+/* Tabel Styling */
+.table {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.text-center {
+    text-align: center;
+}
